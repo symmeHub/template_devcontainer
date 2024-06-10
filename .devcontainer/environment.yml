@@ -1,0 +1,6 @@
+name: pytouch
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
